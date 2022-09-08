@@ -1,1 +1,2 @@
-simple shell project - ALX
+# Simple Shell
+- ALX Africa Project
